@@ -12,7 +12,7 @@ COVID-19 has taken the world by force. Today not only has it claimed hundreds of
 
 ## Question and Answer
 1. How do we effectively identify future cases through automated contact tracing?
-2. Can I use the gathered data to form cluster of locations and shut down them from the general public?
+2. Can I use the gathered data to form cluster of locations and shut them down to prevent future cases?
 
 ## Technology stacks used
 1. Android/iOS/React-Native
